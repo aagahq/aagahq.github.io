@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aagahq.github.io/sitemap.xml
