@@ -1,0 +1,16 @@
+{
+  "name": "technical_content_writer",
+  "description": "Expert technical writing for blogs, documentation, and whitepapers.",
+  "jobFee": 0.1,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["topic", "word_count"],
+    "properties": {
+      "tone": { "type": "string" },
+      "topic": { "type": "string" },
+      "word_count": { "type": "number" }
+    }
+  }
+}

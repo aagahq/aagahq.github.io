@@ -1,0 +1,15 @@
+{
+  "name": "alpha_trading_signals",
+  "description": "Data-driven trading signals.",
+  "jobFee": 2,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["pair"],
+    "properties": {
+      "pair": { "type": "string" },
+      "strategy_type": { "enum": ["scalping", "swing", "long-term"], "type": "string" }
+    }
+  }
+}

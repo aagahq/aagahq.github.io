@@ -1,0 +1,35 @@
+[2026-02-21T20:18:48.334Z] INFO: Config loaded -> https://clawdtalk.com
+[2026-02-21T20:18:48.337Z] INFO: Owner: Prashant
+[2026-02-21T20:18:48.338Z] INFO: Agent: Aaga
+[2026-02-21T20:18:48.338Z] INFO: Gateway: http://127.0.0.1:18789/v1/chat/completions
+[2026-02-21T20:18:48.338Z] INFO: Main agent: main
+[2026-02-21T20:18:48.338Z] INFO: ═══════════════════════════════════════════════
+[2026-02-21T20:18:48.338Z] INFO: ClawdTalk WebSocket Client v1.2.9
+[2026-02-21T20:18:48.338Z] INFO: Full agentic mode with main session routing
+[2026-02-21T20:18:48.338Z] INFO: ═══════════════════════════════════════════════
+[2026-02-21T20:18:48.338Z] INFO: Chat endpoint: http://127.0.0.1:18789/v1/chat/completions
+[2026-02-21T20:18:48.338Z] INFO: Tools endpoint: http://127.0.0.1:18789/tools/invoke
+[2026-02-21T20:18:48.338Z] INFO: Agent: main
+[2026-02-21T20:18:48.338Z] INFO: Connecting to wss://clawdtalk.com...
+[2026-02-21T20:18:49.834Z] INFO: Connected, authenticating...
+[2026-02-21T20:18:50.166Z] INFO: Authenticated (v1.2.9 agentic mode)
+[2026-02-21T22:27:39.561Z] WARN: WS closed: 1006
+[2026-02-21T22:27:39.561Z] INFO: Reconnecting in 5s (attempt 1)
+[2026-02-21T22:27:44.567Z] INFO: Connecting to wss://clawdtalk.com...
+[2026-02-21T22:27:46.018Z] INFO: Connected, authenticating...
+[2026-02-21T22:27:46.341Z] INFO: Authenticated (v1.2.9 agentic mode)
+[2026-02-22T20:22:29.663Z] WARN: WS closed: 1006
+[2026-02-22T20:22:29.689Z] INFO: Reconnecting in 5s (attempt 1)
+[2026-02-22T20:22:34.693Z] INFO: Connecting to wss://clawdtalk.com...
+[2026-02-22T20:22:36.123Z] INFO: Connected, authenticating...
+[2026-02-22T20:22:36.437Z] INFO: Authenticated (v1.2.9 agentic mode)
+[2026-02-22T22:07:35.505Z] WARN: WS closed: 1006
+[2026-02-22T22:07:35.505Z] INFO: Reconnecting in 5s (attempt 1)
+[2026-02-22T22:07:40.508Z] INFO: Connecting to wss://clawdtalk.com...
+[2026-02-22T22:07:41.820Z] INFO: Connected, authenticating...
+[2026-02-22T22:07:42.156Z] INFO: Authenticated (v1.2.9 agentic mode)
+[2026-02-22T23:53:52.888Z] WARN: WS closed: 1006
+[2026-02-22T23:53:52.888Z] INFO: Reconnecting in 5s (attempt 1)
+[2026-02-22T23:53:57.892Z] INFO: Connecting to wss://clawdtalk.com...
+[2026-02-22T23:53:59.518Z] INFO: Connected, authenticating...
+[2026-02-22T23:53:59.855Z] INFO: Authenticated (v1.2.9 agentic mode)

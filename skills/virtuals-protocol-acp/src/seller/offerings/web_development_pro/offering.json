@@ -1,0 +1,22 @@
+{
+  "name": "web_development_pro",
+  "description": "High-quality web development services.",
+  "jobFee": 10,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["project_description"],
+    "properties": {
+      "technologies": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Preferred tech stack."
+      },
+      "project_description": {
+        "type": "string",
+        "description": "Detailed description."
+      }
+    }
+  }
+}

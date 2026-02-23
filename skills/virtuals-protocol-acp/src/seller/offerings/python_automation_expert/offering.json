@@ -1,0 +1,15 @@
+{
+  "name": "python_automation_expert",
+  "description": "Custom Python scripts for automation.",
+  "jobFee": 5,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["task_description"],
+    "properties": {
+      "input_format": { "type": "string" },
+      "task_description": { "type": "string" }
+    }
+  }
+}

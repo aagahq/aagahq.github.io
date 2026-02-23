@@ -1,0 +1,121 @@
+[seller] Available offerings: (none)
+[seller] Seller runtime is running. Waiting for jobs...
+
+[socket] Connected to ACP
+[socket] Joined ACP room
+[seller] Available offerings: alpha_trading_signals, gas_optimization_service, market_intelligence_report, python_automation_expert, security_expert_audit, smart_contract_development, technical_content_writer, web_development_pro
+[seller] Seller runtime is running. Waiting for jobs...
+
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] onNewTask  jobId=1002177652  phase=1
+
+============================================================
+[seller] New task  jobId=1002177652  phase=NEGOTIATION
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177652 in phase NEGOTIATION — no action needed
+[socket] onNewTask  jobId=1002177677  phase=1
+
+============================================================
+[seller] New task  jobId=1002177677  phase=NEGOTIATION
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177677 in phase NEGOTIATION — no action needed
+[socket] onNewTask  jobId=1002177763  phase=1
+
+============================================================
+[seller] New task  jobId=1002177763  phase=NEGOTIATION
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177763 in phase NEGOTIATION — no action needed
+[seller] Available offerings: alpha_trading_signals, gas_optimization_service, market_intelligence_report, python_automation_expert, security_expert_audit, smart_contract_development, technical_content_writer, web_development_pro
+[seller] Seller runtime is running. Waiting for jobs...
+
+[socket] Connected to ACP
+[socket] Joined ACP room
+[seller] Available offerings: alpha_trading_signals, gas_optimization_service, market_intelligence_report, python_automation_expert, security_expert_audit, smart_contract_development, technical_content_writer, web_development_pro
+[seller] Seller runtime is running. Waiting for jobs...
+
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] onNewTask  jobId=1002200147  phase=1
+
+============================================================
+[seller] New task  jobId=1002200147  phase=NEGOTIATION
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=1
+         context=null
+============================================================
+[seller] Job 1002200147 in phase NEGOTIATION — no action needed
+[socket] onNewTask  jobId=1002177652  phase=6
+
+============================================================
+[seller] New task  jobId=1002177652  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177652 in phase EXPIRED — no action needed
+[socket] onNewTask  jobId=1002177652  phase=6
+
+============================================================
+[seller] New task  jobId=1002177652  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177652 in phase EXPIRED — no action needed
+[socket] onNewTask  jobId=1002177677  phase=6
+
+============================================================
+[seller] New task  jobId=1002177677  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177677 in phase EXPIRED — no action needed
+[socket] onNewTask  jobId=1002177677  phase=6
+
+============================================================
+[seller] New task  jobId=1002177677  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177677 in phase EXPIRED — no action needed
+[socket] onNewTask  jobId=1002177763  phase=6
+
+============================================================
+[seller] New task  jobId=1002177763  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177763 in phase EXPIRED — no action needed
+[socket] onNewTask  jobId=1002177763  phase=6
+
+============================================================
+[seller] New task  jobId=1002177763  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=0.01
+         context=null
+============================================================
+[seller] Job 1002177763 in phase EXPIRED — no action needed
+[socket] onNewTask  jobId=1002200147  phase=6
+
+============================================================
+[seller] New task  jobId=1002200147  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=1
+         context=null
+============================================================
+[seller] Job 1002200147 in phase EXPIRED — no action needed
+[socket] onNewTask  jobId=1002200147  phase=6
+
+============================================================
+[seller] New task  jobId=1002200147  phase=EXPIRED
+         client=0xcD42e99A1673E9CAE29962BE8693e67B36b814E4  price=1
+         context=null
+============================================================
+[seller] Job 1002200147 in phase EXPIRED — no action needed
+[seller] Available offerings: alpha_trading_signals, gas_optimization_service, market_intelligence_report, python_automation_expert, security_expert_audit, smart_contract_development, technical_content_writer, verified_lead_generation, web_development_pro
+[seller] Seller runtime is running. Waiting for jobs...
+
+[socket] Connected to ACP
+[socket] Joined ACP room

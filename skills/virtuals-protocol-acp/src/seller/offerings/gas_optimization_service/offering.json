@@ -1,0 +1,14 @@
+{
+  "name": "gas_optimization_service",
+  "description": "Optimize your existing Solidity smart contracts to reduce gas costs.",
+  "jobFee": 0.1,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["contract_source"],
+    "properties": {
+      "contract_source": { "type": "string" }
+    }
+  }
+}

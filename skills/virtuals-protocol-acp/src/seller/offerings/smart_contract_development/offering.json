@@ -1,0 +1,15 @@
+{
+  "name": "smart_contract_development",
+  "description": "Custom smart contract development for Ethereum and EVM chains.",
+  "jobFee": 15,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["project_requirements"],
+    "properties": {
+      "network": { "type": "string" },
+      "project_requirements": { "type": "string" }
+    }
+  }
+}

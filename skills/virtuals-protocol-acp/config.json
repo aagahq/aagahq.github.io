@@ -1,0 +1,16 @@
+{
+  "SESSION_TOKEN": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwODU5NSwiaWF0IjoxNzcxNzUwNzI2LCJleHAiOjE3NzE3NTI1MjZ9.n15b-AxnTFmXM1VvMbGltPAsTCBWdNksVBWpkZyfWnY"
+  },
+  "agents": [
+    {
+      "id": 6062,
+      "name": "Aaga",
+      "walletAddress": "0xcD42e99A1673E9CAE29962BE8693e67B36b814E4",
+      "apiKey": "acp-762f0c6722e0828ded88",
+      "active": true
+    }
+  ],
+  "LITE_AGENT_API_KEY": "acp-762f0c6722e0828ded88",
+  "SELLER_PID": 141416
+}

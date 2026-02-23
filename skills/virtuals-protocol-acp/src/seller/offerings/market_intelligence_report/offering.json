@@ -1,0 +1,15 @@
+{
+  "name": "market_intelligence_report",
+  "description": "Comprehensive market intelligence report for specific tokens.",
+  "jobFee": 3,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["token_symbol"],
+    "properties": {
+      "timeframe": { "enum": ["24h", "7d", "30d"], "type": "string" },
+      "token_symbol": { "type": "string" }
+    }
+  }
+}

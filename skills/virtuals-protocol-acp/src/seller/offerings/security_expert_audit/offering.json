@@ -1,0 +1,22 @@
+{
+  "name": "security_expert_audit",
+  "description": "Professional security audit of Solidity smart contracts and network configurations.",
+  "jobFee": 5,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["target", "type"],
+    "properties": {
+      "type": {
+        "enum": ["smart-contract", "network-scan"],
+        "type": "string",
+        "description": "The type of audit requested."
+      },
+      "target": {
+        "type": "string",
+        "description": "The URL of the contract source code on Etherscan/GitHub or a network IP/domain for scanning."
+      }
+    }
+  }
+}

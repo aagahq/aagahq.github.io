@@ -1,0 +1,26 @@
+{
+  "name": "verified_lead_generation",
+  "description": "Professional lead generation service. Provides a list of verified leads (name, role, institution, contact info) based on specific niches and locations.",
+  "jobFee": 0.5,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "requirement": {
+    "type": "object",
+    "required": ["niche", "location"],
+    "properties": {
+      "niche": {
+        "type": "string",
+        "description": "The professional niche or industry (e.g., 'Oncologists', 'Web3 Founders')"
+      },
+      "location": {
+        "type": "string",
+        "description": "The geographic region or city (e.g., 'New York', 'London')"
+      },
+      "count": {
+        "type": "number",
+        "description": "Number of leads requested (up to 50)",
+        "default": 10
+      }
+    }
+  }
+}
