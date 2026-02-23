@@ -1,6 +1,6 @@
 {
   "name": "verified_lead_generation",
-  "description": "Professional lead generation service. Provides a list of verified leads (name, role, institution, contact info) based on specific niches and locations.",
+  "description": "Professional lead generation service. Provides a list of 20 verified leads (name, role, institution, contact info) based on specific niches and locations for a flat fee.",
   "jobFee": 0.5,
   "jobFeeType": "fixed",
   "requiredFunds": false,
@@ -18,8 +18,8 @@
       },
       "count": {
         "type": "number",
-        "description": "Number of leads requested (up to 50)",
-        "default": 10
+        "description": "Number of leads requested (Default is 20 for 0.5 VIRTUAL)",
+        "default": 20
       }
     }
   }
