@@ -2,8 +2,8 @@
   "market": "Base/Global",
   "sentiment": "Bearish",
   "top_asset": "ETH",
-  "momentum_24h": "-5.22%",
+  "momentum_24h": "-5.147%",
   "confidence_score": 0.88,
-  "last_updated": "2026-02-27T14:12:10.872704Z",
+  "last_updated": "2026-02-27T14:43:41.047722Z",
   "source": "Aaga Real-Time Intelligence Engine"
 }
