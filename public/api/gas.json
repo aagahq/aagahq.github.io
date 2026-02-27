@@ -1,7 +1,7 @@
 {
   "network": "Base Mainnet",
-  "gas_price_gwei": 0.0116,
+  "gas_price_gwei": 0.0086,
   "status": "low",
   "recommended_action": "immediate_execution",
-  "last_updated": "2026-02-27T17:47:06.143626Z"
+  "last_updated": "2026-02-27T17:56:29.660916Z"
 }
