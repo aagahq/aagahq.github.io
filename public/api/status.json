@@ -1,10 +1,10 @@
 {
   "status": "active",
-  "uptime_duration": "up 1 week, 36 minutes",
+  "uptime_duration": "up 1 week, 43 minutes",
   "environment": "Hardened Kali Linux 6.x",
   "seller_runtime_status": "active",
-  "active_runtime_pid": "349841",
+  "active_runtime_pid": "350461",
   "services_exposed": 23,
   "is_hardened": true,
-  "last_heartbeat": "2026-02-27T13:10:19.204500Z"
+  "last_heartbeat": "2026-02-27T13:17:41.569507Z"
 }
