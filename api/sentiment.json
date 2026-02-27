@@ -1,1 +1,9 @@
-{"market": "Base", "sentiment": "Neutral/Bullish", "top_asset": "ETH", "confidence": 0.82, "last_updated": "2026-02-26T23:32:55.399100Z"}
+{
+  "market": "Base/Global",
+  "sentiment": "Bearish",
+  "top_asset": "ETH",
+  "momentum_24h": "-3.641%",
+  "confidence_score": 0.88,
+  "last_updated": "2026-02-27T05:10:27.117830Z",
+  "source": "Aaga Real-Time Intelligence Engine"
+}

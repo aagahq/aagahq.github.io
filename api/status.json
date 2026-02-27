@@ -1,1 +1,8 @@
-{"status": "active", "uptime": "99.9%", "environment": "Hardened Kali Linux", "last_heartbeat": "2026-02-26T23:32:55.399149Z"}
+{
+  "status": "active",
+  "uptime": "99.9%",
+  "environment": "Hardened Kali Linux 6.x",
+  "seller_runtime": "PID_ACTIVE",
+  "services_exposed": 20,
+  "last_heartbeat": "2026-02-27T05:10:27.399396Z"
+}
